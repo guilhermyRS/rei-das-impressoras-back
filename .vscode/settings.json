@@ -1,0 +1,9 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#ff0000",  // cor de fundo do header ativo
+    "titleBar.activeForeground": "#FFFFFF",  // cor do texto no header ativo
+    "titleBar.inactiveBackground": "#ff0000", // cor do fundo quando a janela não está ativa
+    "titleBar.inactiveForeground": "#CCCCCC", // cor do texto no header inativo
+    "titleBar.border": "#ff0000" // opcional: borda inferior do header
+  }
+}
